@@ -8,8 +8,7 @@
 
 下图是android的打包流程，想要插入代码，可以在.java文件->.class文件和.class文件->.dex文件这两个过程中实现。
 
-![img](https://img-blog.csdn.net/20161213230703575?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhhb2RlY2FuZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
-
+![img](https://upload-images.jianshu.io/upload_images/1441907-8a2c24bbb71c2cbf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/536)
 
 
 ### 1.1 .java->.class期间生成代码
